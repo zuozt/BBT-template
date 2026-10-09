@@ -1,5 +1,7 @@
 # Beagle Brain Template (BBT)
 
+[Beagle Brain Template](https://zuozt.github.io/BBT-template/)
+
 **A high-resolution MRI brain template for adult Beagle**
 
 An MRI resource for canine neuroimaging research, including high-resolution in vivo T1-weighted, T2-weighted, and myelin templates, with associated tissue probability maps, labels, and masks.
@@ -46,4 +48,4 @@ The original BBT webpage describes the resource as available for **academic rese
 
 ## Website
 
-The repository's `index.html` can also be published through GitHub Pages. When enabled, the site normally appears at `[https://zuozt.github.io/BBT-template/](https://zuozt.github.io/BBT-template/)`.
+Please visit the site [Beagle Brain Template](https://zuozt.github.io/BBT-template/).
