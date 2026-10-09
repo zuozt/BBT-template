@@ -23,7 +23,7 @@ The files are distributed as ZIP archives containing NIfTI images and related re
 | Non-skull-stripped templates | `BBTs_without_skull_stripped.zip` | Original template resources | [Download ZIP](https://github.com/zuozt/BBT-template/releases/download/V1.0.0/BBTs.without.skull.stripped.zip) |
 | Individual templates / TPMs | `BBTs_TPMs_12male_7female.zip` | Individual Beagle resources (12 male, 7 female) | [Download ZIP](https://github.com/zuozt/BBT-template/releases/download/V1.0.0/BBTs.and.TPMs_12.male.Beagles.and.7.female.Beagles.zip) |
 
-**Large-file note:** `BBT_TPM.zip` is approximately 480 MB and should be distributed as a GitHub Release asset rather than committed to the Git repository. After publishing the release, replace this note with a link to `https://github.com/OWNER/REPOSITORY/releases/download/v1.0.0/BBT_TPM.zip`, using the actual owner, repository, and release tag. The GitHub Pages download link for this file must be updated separately in `index.html`.
+**Large-file note:** `BBT_TPM.zip` is approximately 480 MB and should be distributed as a GitHub Release asset rather than committed to the Git repository. After publishing the release, replace this note with a link to `https://github.com/zuozt/BBT-template/releases/download/v1.0.0/BBT_TPM.zip`, using the actual owner, repository, and release tag. The GitHub Pages download link for this file must be updated separately in `index.html`.
 
 ## How to cite
 
