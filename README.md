@@ -17,11 +17,11 @@ The files are distributed as ZIP archives containing NIfTI images and related re
 | T1-weighted template | `T1w_BBT_template.zip` | `T1w_BBT_template.nii` | [Download ZIP](templates/T1w_BBT_template.zip) |
 | T2-weighted template | `T2w_BBT_template.zip` | `T2w_BBT_template.nii` | [Download ZIP](templates/T2w_BBT_template.zip) |
 | Myelin template | `Myelin_BBT_template.zip` | `Myelin_BBT_template.nii` | [Download ZIP](templates/Myelin_BBT_template.zip) |
-| Tissue probability map | `BBT_TPM.zip` | `BBT_TPM.nii` | See large-file note below |
+| Tissue probability map | `BBT_TPM.zip` | `BBT_TPM.nii` | [Download ZIP](https://github.com/zuozt/BBT-template/releases/download/V1.0.0/BBT_TPM.zip) |
 | Labels and lookup table | `labels.zip` | `wBrain_label_com_smooth.nii`, `New_Canine_brain_label.lut` | [Download ZIP](templates/labels.zip) |
 | Brain mask | `Mask.zip` | `Mask.nii` | [Download ZIP](templates/Mask.zip) |
-| Non-skull-stripped templates | `BBTs_without_skull_stripped.zip` | Original template resources | [Download ZIP](templates/BBTs_without_skull_stripped.zip) |
-| Individual templates / TPMs | `BBTs_TPMs_12male_7female.zip` | Individual Beagle resources (12 male, 7 female) | [Download ZIP](templates/BBTs_TPMs_12male_7female.zip) |
+| Non-skull-stripped templates | `BBTs_without_skull_stripped.zip` | Original template resources | [Download ZIP](https://github.com/zuozt/BBT-template/releases/download/V1.0.0/BBTs.without.skull.stripped.zip) |
+| Individual templates / TPMs | `BBTs_TPMs_12male_7female.zip` | Individual Beagle resources (12 male, 7 female) | [Download ZIP](https://github.com/zuozt/BBT-template/releases/download/V1.0.0/BBTs.and.TPMs_12.male.Beagles.and.7.female.Beagles.zip) |
 
 **Large-file note:** `BBT_TPM.zip` is approximately 480 MB and should be distributed as a GitHub Release asset rather than committed to the Git repository. After publishing the release, replace this note with a link to `https://github.com/OWNER/REPOSITORY/releases/download/v1.0.0/BBT_TPM.zip`, using the actual owner, repository, and release tag. The GitHub Pages download link for this file must be updated separately in `index.html`.
 
@@ -46,4 +46,4 @@ The original BBT webpage describes the resource as available for **academic rese
 
 ## Website
 
-The repository's `index.html` can also be published through GitHub Pages. When enabled, the site normally appears at `https://OWNER.github.io/REPOSITORY/`.
+The repository's `index.html` can also be published through GitHub Pages. When enabled, the site normally appears at `https://zuozt.github.io/BBT-template/`.
