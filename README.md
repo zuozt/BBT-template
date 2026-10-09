@@ -46,4 +46,4 @@ The original BBT webpage describes the resource as available for **academic rese
 
 ## Website
 
-The repository's `index.html` can also be published through GitHub Pages. When enabled, the site normally appears at `https://zuozt.github.io/BBT-template/`.
+The repository's `index.html` can also be published through GitHub Pages. When enabled, the site normally appears at `[https://zuozt.github.io/BBT-template/](https://zuozt.github.io/BBT-template/)`.
